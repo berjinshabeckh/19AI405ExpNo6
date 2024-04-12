@@ -1,7 +1,7 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 
-### DEVELOPED BY : ABRIN NISHA A
-### REG NO : 212222230005
+### DEVELOPED BY : H.Berjin Shabeck
+### REG NO : 212222240018
 
 ## Aim :
 
